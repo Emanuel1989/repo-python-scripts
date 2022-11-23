@@ -1,5 +1,5 @@
 #Python 2.7
-## magiSupremeInsideWordReplacer version 1.9999-desa
+## magiSupremeInsideWordReplacer version 1.10-desa
 
 #Editar:
 #folder target newWord *.ext
