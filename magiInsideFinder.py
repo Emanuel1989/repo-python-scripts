@@ -1,5 +1,5 @@
 #!/usr/bin/python
-## MagiInsideFinder version 4.2
+## MagiInsideFinder version 4.22222
 import os
 import sys
 import traceback
