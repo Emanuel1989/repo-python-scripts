@@ -1,5 +1,5 @@
 #!/usr/bin/python
-## MagiInsideFinder version 4.4-desa from office-lenovo
+## MagiInsideFinder version 4.4-desa from office-lenovo.
 import os
 import sys
 import traceback
