@@ -9,7 +9,7 @@ totalFilesWithMatchs = 0
 oldFileName = ''
 
 def usage():
-	print('Usage: python magiInsideFinder.py YOURSTRINGTOSEARCH -php-java-txt ' \
+	print('Usage: python magiInsideFinder.py YOURSTRINGTOSEARCH -php-java-txt-html ' \
 		  '[File Filters(default:".txt, .html, .java, .php, .sql")], exceptions are optional.')
 
 def replaceStringInFile(fileName, oldStringToReplace, newString):

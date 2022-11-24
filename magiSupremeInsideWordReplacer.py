@@ -23,4 +23,4 @@ def findReplace(directory, find, replace, filePattern):
 
     print("Total de archivos leidos: "+str(contador))
 
-findReplace("folder", "friendly", "-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-", "*.txt")
+findReplace("folder", "friendly", "-abc-", "*.txt")
